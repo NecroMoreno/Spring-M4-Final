@@ -1,4 +1,4 @@
-El programa funciona segun lso requerimientos, segun yo.
+El programa funciona segun los requerimientos, segun yo.
 Pero hay un problema de consistencia en la clase "capacitacion" y clase "cliente" el problema consiste en que el arraylist de capacitacion estaba en la clase "contenedor"
 Para mi cliente y capacitacion debieronq uedar asociados a traves de cliente en un arraylist en cliente. 
 Esto se hace evidente cuando se borra un Usuario cliente y no borra la o las capacitación/es asociada a el/ella ni los datos. Es porque es asociacion simple por lo antes expuesto.
